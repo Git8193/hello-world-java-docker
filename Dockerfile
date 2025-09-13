@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/ubi8/ubi-minimal:8.5
 
-LABEL Raja
+MAINTAINER Raja
 
 LABEL BASE_IMAGE="registry.access.redhat.com/ubi8/ubi-minimal:8.5"
 LABEL JAVA_VERSION="17"
