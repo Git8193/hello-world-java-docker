@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/ubi8/ubi-minimal:8.5
 
-MAINTAINER Raja DevOps 24-MAR-2026
+MAINTAINER Raja DevOps 27-MAR-2026
 
 LABEL BASE_IMAGE="registry.access.redhat.com/ubi8/ubi-minimal:8.5"
 LABEL JAVA_VERSION="11"
